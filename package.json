@@ -1,0 +1,16 @@
+{
+  "name": "creature-maker",
+  "version": "1.0.0",
+  "description": "Pet-project for learning graphic libraries and other staff ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "maker",
+    "creature",
+    "paint"
+  ],
+  "author": "ShaggyBa",
+  "license": "ISC"
+}
